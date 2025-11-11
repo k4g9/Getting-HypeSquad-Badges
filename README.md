@@ -11,7 +11,7 @@ let findByProps=(...e)=>{for(let r of Object.values(_mods))try{if(!r.exports||r.
 const api = findByProps("Jt", "tn").tn;
 api.post({url: "/hypesquad/online",body:{house_id: 1}})
 ```
-# You must change last part [{house_id: ...}](https://github.com/k4g9/Getting-HypeSquad-Badges/blob/main/code.js) for different hypesquad badges
+# You must change last part [{house_id: ...}](https://github.com/k4g9/Get-HypeSquad-Badges/blob/main/code.js) for different hypesquad badges
 | Value | HypeSquad Hose | Badge |
 |:------:|:---------:|:-------:|
 | 1 | Bravery | ![Bravery](Bravery.png) |
