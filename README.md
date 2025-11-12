@@ -19,4 +19,3 @@ api.post({url: "/hypesquad/online",body:{house_id: 1}})
 | 3 | Balance | ![Balance](Balance.png) |
 ---
 ![badges.png](badges.png)
-**Credits: [Dziurwa](https://github.com/Dziurwa14)**
