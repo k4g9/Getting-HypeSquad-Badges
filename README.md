@@ -45,8 +45,8 @@ api.del("/hypesquad/online")
 # You must change last part [{house_id: ...}](https://github.com/k4g9/Get-HypeSquad-Badges/blob/main/code.js) for different hypesquad badges
 | Value | HypeSquad Hose | Badge |
 |:------:|:---------:|:-------:|
-| 1 | Bravery | ![Bravery](Bravery.png) |
-| 2 | Brilliance | ![Brilliance](Brilliance.png) |
-| 3 | Balance | ![Balance](Balance.png) |
+| 1 | Bravery | ![Bravery](images/bravery.png) |
+| 2 | Brilliance | ![Brilliance](images/brilliance.png) |
+| 3 | Balance | ![Balance](images/balance.png) |
 ---
-![badges.png](badges.png)
+![badges.png](images/badges.png)
